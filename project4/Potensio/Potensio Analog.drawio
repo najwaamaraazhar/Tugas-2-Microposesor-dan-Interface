@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="A_QXAQ_dNxcEKIwswk8P">
+    <mxGraphModel dx="762" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6odC_s9sJOPoDGgsGerB-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6odC_s9sJOPoDGgsGerB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="265.9999694824219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6odC_s9sJOPoDGgsGerB-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="135" width="162" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6odC_s9sJOPoDGgsGerB-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6odC_s9sJOPoDGgsGerB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="410.79998779296875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6odC_s9sJOPoDGgsGerB-2" value="Pilih nilai terhadap&amp;nbsp;&lt;div&gt;analog Potensio&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="274" width="193" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="6odC_s9sJOPoDGgsGerB-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6odC_s9sJOPoDGgsGerB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203" y="375.5999755859375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6odC_s9sJOPoDGgsGerB-4" value="Menampilkan nilai analog potensio" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="423" width="181" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
